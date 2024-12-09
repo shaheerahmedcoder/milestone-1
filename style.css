@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(19, 18, 18);
+  }
+  
+  .resume-container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color:rgb(50, 39, 110);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: beige;
+  }
+  
+  header {
+    text-align: center;
+    color: white;
+  }
+  
+  .profile-pic {
+    width: 300px;
+    height: 300px;
+    border-radius: 70%;
+    margin: 50px 0;
+  }
+  
+  h1, h2 {
+    color: white;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #010408;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e05d10;
+  }
